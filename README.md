@@ -19,9 +19,9 @@ sudo npm install webtorrent-cli -g
 ```
 ### Windows
 - Install python3.9 from windows store
-- Install nodejs from [node](https://nodejs.org/en/download/)
-- Install git from [git](https://git-scm.com/downloads)
-- Install webtorrent-cli in command promt
+- Install nodejs from [here](https://nodejs.org/en/download/)
+- Install git from [here](https://git-scm.com/downloads)
+- Install webtorrent-cli in command promt by typing
 ```
 npm install webtorrent-cli -g
 ```
